@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410732869327",
+    "project_id": "windowpushnotification-e8634",
+    "storage_bucket": "windowpushnotification-e8634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410732869327:android:4220d1ef0d83ace12029ba",
+        "android_client_info": {
+          "package_name": "com.example.windowpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410732869327-th8gst4medth16pqgtih5fgrop2u5ngm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn7yw_8Wg47rhHJY2Gb_oa4s74ydZgRC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410732869327-th8gst4medth16pqgtih5fgrop2u5ngm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
